@@ -1,0 +1,352 @@
+[
+  {
+    "username": "Guadalupe.Garza",
+    "email": "Hernn51@hotmail.com",
+    "password": "Govmft7Eo7CASum",
+    "role": "user",
+    "passwordHash": "$2b$10$lagq4L8XrsRaSrBf1nSlVegyPH1WCo7OpY5bAFtmb3oqIVLgCcVX."
+  },
+  {
+    "username": "Dorotea_Cabrera",
+    "email": "Susana.Rojo59@gmail.com",
+    "password": "HeE0CDnUcgWgZPA",
+    "role": "admin",
+    "passwordHash": "$2b$10$gQawjU4qkk47hXtYJvFnw.xViOjL3v6THewWa77wuxyljQhWpSIpu"
+  },
+  {
+    "username": "Eduardo.Márquez",
+    "email": "Javier35@yahoo.com",
+    "password": "zV91afxdVUf57Pt",
+    "role": "admin",
+    "passwordHash": "$2b$10$cfUwVDmgUuDQ7fFeZmO5weYHeeZoRlb0PYOffQu/.gUdih.neI7zC"
+  },
+  {
+    "username": "Sergio.Montalvo",
+    "email": "Lourdes_Villarreal@yahoo.com",
+    "password": "fvCAscA0HVPqowz",
+    "role": "admin",
+    "passwordHash": "$2b$10$Vvn8adeKy1uq7h3zs1JKGeUtkObIzzeoX0pDc4Z7QvqRKWlzB98JG"
+  },
+  {
+    "username": "Guillermina_Frías",
+    "email": "Norma.Botello@hotmail.com",
+    "password": "yqUWCtfFkR6RfWl",
+    "role": "admin",
+    "passwordHash": "$2b$10$aMtuT3DGgH.jT9EQjbJqc.hIQj4W9g6GlP5JUB2tkzsgtlwnEppGe"
+  },
+  {
+    "username": "Jacobo.Trujillo",
+    "email": "Bernardo56@hotmail.com",
+    "password": "ngGuvoUgSa6dbXD",
+    "role": "admin",
+    "passwordHash": "$2b$10$pT4G4OyEzpNBmJOw2L6XE.7WGhx8YMU/ZyFlc4qnRXKyaz0lxW5MO"
+  },
+  {
+    "username": "Anita_Trejo65",
+    "email": "Estela_Dueas7@hotmail.com",
+    "password": "MsIbEoIz6HS4JrO",
+    "role": "user",
+    "passwordHash": "$2b$10$t/blZpFSSKm1BBXkOz7npewJcJ7y.ob9U6No65R.yMEh5KNJcy24i"
+  },
+  {
+    "username": "Gabriela_Tamayo",
+    "email": "Diego_Barrios5@gmail.com",
+    "password": "no199PldGDbXkX0",
+    "role": "admin",
+    "passwordHash": "$2b$10$nPLsN0NkevlddoR7pLu5fuEYrSYecWAX8qnRzN4pEuG6gTt/wm..u"
+  },
+  {
+    "username": "Natalia.Escobar84",
+    "email": "Clara_Ojeda5@yahoo.com",
+    "password": "ArK9sJ31Qt0sP1Q",
+    "role": "admin",
+    "passwordHash": "$2b$10$UobDwnDjmzqpkwVGvGem5Ojj3KdSgNekAgcvB68NviuSTGxltPara"
+  },
+  {
+    "username": "Alejandro_Zúñiga98",
+    "email": "Patricio.Collado69@hotmail.com",
+    "password": "CpJfiUI9G2Xjqm3",
+    "role": "admin",
+    "passwordHash": "$2b$10$sU/xeWEb..LaxqNETXUF2eaY9DZTCogTm9iW2CuINIbS6MZdsOiGa"
+  },
+  {
+    "username": "Carlota_Chavarría",
+    "email": "Teresa9@gmail.com",
+    "password": "DcZJg7Rp37UpZd7",
+    "role": "user",
+    "passwordHash": "$2b$10$szxqzZMeggo/7.QSdcZcL.p4Gj6U9WDcNM7HRF4.RDvQFjN4tcOau"
+  },
+  {
+    "username": "Víctor_Juárez17",
+    "email": "Mayte.Olivas62@yahoo.com",
+    "password": "6xa8b3YbQ3IECcU",
+    "role": "admin",
+    "passwordHash": "$2b$10$RsYpaZrw0728.6sEI/pw0OQEPhg.AHXEeh9dfbYPIEU5VBDu0CBCi"
+  },
+  {
+    "username": "Raúl_Parra82",
+    "email": "Susana_Rojo@gmail.com",
+    "password": "PwdXwXu57E6OEdm",
+    "role": "admin",
+    "passwordHash": "$2b$10$bTRHDbtCF/tA70LD0jUBNOvAQzeuFUH9mk0bWBZlSdM6H6jTxYj32"
+  },
+  {
+    "username": "Carmen.Vázquez",
+    "email": "Salvador.Melgar@gmail.com",
+    "password": "tJi3LzruGbzsZwM",
+    "role": "user",
+    "passwordHash": "$2b$10$q6sbIBi3ham5pg/Rwy7DXeSVwBOmqlzM4A1UwufTanS9755Ur7PhK"
+  },
+  {
+    "username": "JoséLuis_Menchaca",
+    "email": "Josefina.Barela@gmail.com",
+    "password": "bwcRlc0RGV_yzNW",
+    "role": "user",
+    "passwordHash": "$2b$10$3T036XEVREyVhvKmZ1A1t.MbLp9WNyoLfPygzqHbncMaIxWi8QtQy"
+  },
+  {
+    "username": "MaríaTeresa98",
+    "email": "Marisol.Vera59@yahoo.com",
+    "password": "F1ERkuonJ2xdDto",
+    "role": "admin",
+    "passwordHash": "$2b$10$DIHpoNd5coBS5GrRyYKeCOFolZ7etTcqPNeIYXBlvv9FEXL3QKmCC"
+  },
+  {
+    "username": "MarcoAntonio69",
+    "email": "Sara70@yahoo.com",
+    "password": "ugVfMpLbFizQ5qY",
+    "role": "user",
+    "passwordHash": "$2b$10$UvbiFEFDR0yphuHmRKVNduLJA9MyV7hQ8Jm4w3fc909xG267BifNK"
+  },
+  {
+    "username": "Samuel.Caldera88",
+    "email": "Emilia83@hotmail.com",
+    "password": "RvdbnnwQQ2y0luj",
+    "role": "admin",
+    "passwordHash": "$2b$10$ChorO9YciQGdFjJP2df4jOks9BJOlOecqzqipjhPEs8bEKbKgWHda"
+  },
+  {
+    "username": "Federico12",
+    "email": "Javier24@hotmail.com",
+    "password": "15yNHINAGVNfwT2",
+    "role": "user",
+    "passwordHash": "$2b$10$CdTTS1TiJANvTUMmj2ECzOXmwtzJs8RyFuCGwlXJ9JDy3jpeEiH5i"
+  },
+  {
+    "username": "Sonia_Granados",
+    "email": "LuisMiguel96@gmail.com",
+    "password": "OUat_TbMCGS_pyS",
+    "role": "admin",
+    "passwordHash": "$2b$10$fRKGGwMLi9iT83nUU0EFkuVCJWFYM6nOXnLGO0QwRGGRTt2mpjiTG"
+  },
+  {
+    "username": "MaríaSoledad.Navarrete",
+    "email": "Florencia_Montoya85@yahoo.com",
+    "password": "4GLgBx7Xzk3b76L",
+    "role": "user",
+    "passwordHash": "$2b$10$iS2SnYB9SnLkbB/pTTKI6uHxKBgfV6ZY2nI1TFkFCfeVTSNHLsHci"
+  },
+  {
+    "username": "Lorenzo72",
+    "email": "Miguel_Camarillo@hotmail.com",
+    "password": "ya941UpsZJSNySh",
+    "role": "user",
+    "passwordHash": "$2b$10$.4P5TlCIm8K8ukhUEbQ7wefRIcfVapZR9V.vqLuuzvrjSP0X4S7qC"
+  },
+  {
+    "username": "Alfredo.Acosta31",
+    "email": "Julio_Rael@yahoo.com",
+    "password": "Bf1nzzpT0TSlIYL",
+    "role": "admin",
+    "passwordHash": "$2b$10$G5l/rGUdmLRf59.MueO6C.SwxyVVP3DQL/XJp4jTPbzcTQr3Tcyaa"
+  },
+  {
+    "username": "Florencia_Chávez",
+    "email": "Samuel15@hotmail.com",
+    "password": "HZixhvPPTn_E4tF",
+    "role": "user",
+    "passwordHash": "$2b$10$tOa6e.rF6j6OBjexmk9FKu1jr6MQfXNCQGh43DPzjGULQLI0SCLSu"
+  },
+  {
+    "username": "Adela_Aponte1",
+    "email": "Andrea25@hotmail.com",
+    "password": "ACE_LyJybo1y2DF",
+    "role": "user",
+    "passwordHash": "$2b$10$ck/T0MaHIPSH2FSlodaEDeHHdisLReJO2Nww5oCLwmeNggPgZKBoC"
+  },
+  {
+    "username": "Nicolás97",
+    "email": "Clemente_Almarz@hotmail.com",
+    "password": "pJCyPNf6Tlsp0Rr",
+    "role": "user",
+    "passwordHash": "$2b$10$jg4PLQdFecQeef8tsuu6Mez7iqO3mDgIafFnviwIVGhBMK3eu1Pmq"
+  },
+  {
+    "username": "Ernesto18",
+    "email": "Concepcin_Candelaria@hotmail.com",
+    "password": "1CYOepLVCpajMML",
+    "role": "user",
+    "passwordHash": "$2b$10$Z7.tCeHt7DNLCXQZkN/DfOlbgeX6KOZQc3KG6xiRiig.F43Au0NcK"
+  },
+  {
+    "username": "Amalia59",
+    "email": "Mara.Zamudio87@gmail.com",
+    "password": "Z28QKiB6zmC99vb",
+    "role": "admin",
+    "passwordHash": "$2b$10$Hl7wCxpGzhOVcsBZWka5euLQE0Xs7eUX1EqWuRB4vFLz5aniqZyQq"
+  },
+  {
+    "username": "Gilberto23",
+    "email": "Julia.Cabrera59@hotmail.com",
+    "password": "rfgvu6rrVSlMeV5",
+    "role": "user",
+    "passwordHash": "$2b$10$wkkKRY.a1PMuovvYNs93a.1lExfWXrMoUN3Fx5sDKGdoqmL.nQK4m"
+  },
+  {
+    "username": "Sancho.Ruelas",
+    "email": "Rafael_Daz@yahoo.com",
+    "password": "hfsW10ZsH_d8zGf",
+    "role": "user",
+    "passwordHash": "$2b$10$CQ0sY.QvJVRfwG.xvZD8oeQo5d/Fvxciwcgjk20e5dT9BjTrKU0Pm"
+  },
+  {
+    "username": "Isabela_Quiróz40",
+    "email": "Diego71@yahoo.com",
+    "password": "89AvFpyEGz8Yc2O",
+    "role": "user",
+    "passwordHash": "$2b$10$UNveLIDPhRsuc3l9CdyMYucZN8igvjgq7jxiP5Enliah08V8U..gy"
+  },
+  {
+    "username": "Martín9",
+    "email": "Csar_Villalobos@yahoo.com",
+    "password": "DNEdax3K8eGsmL5",
+    "role": "admin",
+    "passwordHash": "$2b$10$g4TKEb7wbWUyBLf3FlsTgeZRLkyd5u..aDNOCFirv2gdXonvNxoc2"
+  },
+  {
+    "username": "Ariadna58",
+    "email": "Graciela.Delvalle@yahoo.com",
+    "password": "WfdEsp_J8uIcSdF",
+    "role": "user",
+    "passwordHash": "$2b$10$R9Hmz9CipyifUU1GVosFmeiPsJBNFJn6M0/eoPVVtZyihRHtVqUSe"
+  },
+  {
+    "username": "Yolanda.Linares96",
+    "email": "Eduardo48@yahoo.com",
+    "password": "XGfBd0WvIcR7egB",
+    "role": "user",
+    "passwordHash": "$2b$10$2kgmnGs55zKMeIPNzhMc4.PzZpXPKm0X6gKaAkEuTuhVULe2t71.i"
+  },
+  {
+    "username": "Raúl.Páez",
+    "email": "Clara_Sosa@gmail.com",
+    "password": "RqGoAAeOZAO_UqN",
+    "role": "admin",
+    "passwordHash": "$2b$10$fAt2YQeJV5p.ORoyP2X5QuucwP6ffGd/hwMyOODtNbbZmiRYYrzku"
+  },
+  {
+    "username": "Roberto_Báez",
+    "email": "Adela_Zamudio@gmail.com",
+    "password": "i2dJvVEkgnJivEa",
+    "role": "user",
+    "passwordHash": "$2b$10$MEarRPx2W98LL0fJANOu0O0qUfWYu8NwimBoDso1uQAMUoPErOSNa"
+  },
+  {
+    "username": "Isabel36",
+    "email": "Dolores.Paredes53@hotmail.com",
+    "password": "cYReIYPSIp7WNMq",
+    "role": "admin",
+    "passwordHash": "$2b$10$0IQ1jBNbfHfIjOcrr8lNL.lD9mHtWXuIQO4r0/kmnODsWS6vAmm6y"
+  },
+  {
+    "username": "Jerónimo.Bernal",
+    "email": "Carlos_Orellana9@gmail.com",
+    "password": "7OYigir3yGpgxdB",
+    "role": "admin",
+    "passwordHash": "$2b$10$yBQN6T.71/R1mHMx16ZOveqC04zh0v9ItLY3eDZiUd9p2S3VHmN46"
+  },
+  {
+    "username": "Ariadna73",
+    "email": "Ignacio_Villanueva@gmail.com",
+    "password": "l5OXCHH9xVIXdaN",
+    "role": "user",
+    "passwordHash": "$2b$10$1wWfr2pRezNRDbJh4IBiNO4E/0QiuEpIhuk5siLWcjfBWVieu2ACC"
+  },
+  {
+    "username": "Clemente77",
+    "email": "Timoteo_Jaimes71@gmail.com",
+    "password": "xQLWyFidfLl7aNW",
+    "role": "user",
+    "passwordHash": "$2b$10$1xKMIAObmgTtWzvYy1pSK.gLTvAL91rRW.NK0PivZWOXxunIHNzm."
+  },
+  {
+    "username": "Laura.Chapa8",
+    "email": "Mario24@gmail.com",
+    "password": "AYC8OGeccoFQcw4",
+    "role": "user",
+    "passwordHash": "$2b$10$KTbf9UcuEwYLSxopjFcFMuIMxKHkO3WuswGTLDG5SuUQJOoC3v8si"
+  },
+  {
+    "username": "Susana12",
+    "email": "Antonia.Salazar8@yahoo.com",
+    "password": "wSgd1Vld6lE1WaX",
+    "role": "user",
+    "passwordHash": "$2b$10$xRNTGa5MxdzYkexwfTrHseUCXEAvNVKaO91B2XSdWv0925UediSeu"
+  },
+  {
+    "username": "JuanCarlos7",
+    "email": "Horacio.Concepcin@yahoo.com",
+    "password": "EaA1OoaQeJk_GOt",
+    "role": "admin",
+    "passwordHash": "$2b$10$1ZFZpqkHiJ2a3JW/oSgrFu4u96fTlgfMz04hst8IcYYj.aEPM3uI."
+  },
+  {
+    "username": "Felipe.Villa",
+    "email": "Blanca.Delvalle@yahoo.com",
+    "password": "YizkSqLs9do_COT",
+    "role": "admin",
+    "passwordHash": "$2b$10$3GpexWhCa83riKKLxW/3IO6KS5BdU3JLuUP.rJCslSR52CFcpKzie"
+  },
+  {
+    "username": "Maricarmen_Fuentes78",
+    "email": "Josefina_Cedillo3@gmail.com",
+    "password": "wuC_l6m_xx2PwCE",
+    "role": "user",
+    "passwordHash": "$2b$10$Qjt.H4O9Yc8R9KJfq4SEI.pWQuZe9h7H546EfSQ4UNp/atpLPed1S"
+  },
+  {
+    "username": "Beatriz_Chapa59",
+    "email": "Lorenzo.Montaez92@yahoo.com",
+    "password": "WaqaZulJON14RHk",
+    "role": "admin",
+    "passwordHash": "$2b$10$GQQ4iEgDBHmXdOi8CgnXJ.JsB1ZdWjVGqrznF3rhzwyUfhpsPHnEe"
+  },
+  {
+    "username": "Leticia50",
+    "email": "Eva_Gallegos@gmail.com",
+    "password": "p0FhvCenRvD_IvV",
+    "role": "admin",
+    "passwordHash": "$2b$10$n964BJ0quip5DI6TXl8jz.XnxujptH2fAAw46aX5XJiHn9c5Cig6u"
+  },
+  {
+    "username": "Silvia_Gálvez31",
+    "email": "Salvador40@yahoo.com",
+    "password": "O2hkR9Ab5HXjVfW",
+    "role": "admin",
+    "passwordHash": "$2b$10$4wzjwPrL/go0ceNwfl4sEeHjRY8TJMZ6WJlmJZcarvczSCQhSn0wW"
+  },
+  {
+    "username": "Lucas_Sandoval",
+    "email": "AnaLuisa29@yahoo.com",
+    "password": "RObxkWMCNWYvgFX",
+    "role": "admin",
+    "passwordHash": "$2b$10$RGm93FpYkiOWOsxhW2eVr.otatEHUB2OtE7bJX/WTKJfI60tiWUJi"
+  },
+  {
+    "username": "Elena_Alcaraz12",
+    "email": "Emilia_Armas48@yahoo.com",
+    "password": "0NF4CjGrF5BpxkU",
+    "role": "user",
+    "passwordHash": "$2b$10$vkcJkiXIeHL/gvKCuPuOiOUlpARwNhiQ3QpKpwdeNFWIz4rSRbmaK"
+  }
+]
